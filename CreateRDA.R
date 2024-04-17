@@ -1,4 +1,5 @@
 ## Program to create a RDA file
+## Author: Monika 
 
 # Create two objects
 x <- 1:10
